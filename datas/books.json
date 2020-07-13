@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Vingt mille lieues sous mers",
+        "author": "Jules Verne",
+        "description": "En cette année 1866, une forte angoisse règne sur les océans. Un monstre marin effrayant a été signalé dans diverses mers par plusieurs navires. Une expédition s'organise à bord de la frégate américaine Abraham Lincoln.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Houghton_FC8_V5946_869ve_-_Verne%2C_frontispiece.jpg"
+    },
+    {
+        "title": "Voyage au centre de la Terre",
+        "author": "Jules Verne",
+        "description": "Ce livre raconte l'histoire d'un scientifique, le Professeur Lidenbrock, et de son neveu Axel, qui découvrent le mystérieux parchemin d'un certain Arne Saknussemme.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81ODxCNEF8L.jpg"
+    },
+    {
+        "title": "l'ile mystérieuse",
+        "author": "Jules Verne",
+        "description": "L'Île mystérieuse raconte l'histoire de cinq personnages : l'ingénieur Cyrus Smith, son domestique Nab, le journaliste Gédéon Spilett, le marin Pencroff et l'adolescent Harbert. ... Pris dans un ouragan, ils échouent sur une île déserte, qu'ils baptiseront l'île Lincoln en référence au président américain Abraham Lincoln.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81DT0zyj9BL.jpg"
+    },
+    {
+        "title": "De la Lune à la Terre",
+        "author": "Jules Verne",
+        "description": "trajet direct en 97 heures 20 minutes est un roman d'anticipation de Jules Verne, paru en 1865. Il relate comment, après la fin de la guerre de Sécession, une association d'artilleurs et de scientifiques liés à l'industrie militaire tente d'envoyer sur la Lune un obus habité par trois hommes.",
+        "image": "https://www.livresenfamille.fr/25761/de-la-terre-a-la-lune.jpg"
+    },
+    {
+        "title": "Le Tour du monde en quatre-vingts jours",
+        "author": "Jules Verne",
+        "description": "publié en 1872. Le roman raconte la course autour du monde d'un gentleman anglais, Phileas Fogg, qui a fait le pari d'y parvenir en quatre-vingts jours. Il est accompagné par Jean Passepartout, son serviteur français.",
+        "image": "https://m.media-amazon.com/images/I/61mQ2CiOjTL.jpg"
+    }
+]
